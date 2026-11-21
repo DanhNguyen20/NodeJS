@@ -1,0 +1,4 @@
+BAI THUC HANH 08 - NODE.JS
+Ho ten: Nguyen Thanh Danh
+Noi dung: Tim hieu module File System.
+Muc tieu: Thuc hanh tao, ghi, doc, doi ten va xoa tap tin.
